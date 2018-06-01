@@ -1,0 +1,28 @@
+html,body{
+  margin:0;
+}
+
+/*.header{
+  position: fixed;
+}*/
+.cabecera{
+  width: 100%;
+  height: 81px;
+}
+
+
+
+
+.main{
+  height: 100%;
+  background-color: #3CDBC0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+p{
+  font-family: Rubik;
+  font-size: 30px;
+  color: #FFFFFFF
+}
