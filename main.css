@@ -65,6 +65,17 @@ h1{
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
+  padding: 0px 15px;
+}
+
+.menu{
+  margin-bottom: 0px;
+}
+
+ul{
+  flex-direction: column;
+  align-content: center;
+  line-height: 30px;
 }
 
 h1{
