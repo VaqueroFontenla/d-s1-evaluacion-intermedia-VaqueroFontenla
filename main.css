@@ -1,7 +1,10 @@
 html,body{
   margin:0;
+  padding:0;
   height: 100vh;
   box-sizing: border-box;
+  font-family: Rubik, sans-serif;
+  font-size: 30px;
   display: flex;
   flex-direction: column;
 }
@@ -18,7 +21,6 @@ html,body{
 }
 
 .menu{
-  font-family: Rubik, sans-serif;
   color: #4a4a4a;
   padding: 0px;
   margin-bottom: 13px;
@@ -53,7 +55,6 @@ li{
 }
 
 h1{
-  font-family: Rubik, sans-serif;
   font-size: 30px;
   color: #FFFFFF;
 }
